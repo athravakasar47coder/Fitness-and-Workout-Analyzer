@@ -1,0 +1,123 @@
+Date,Workout_Type,Exercise,Duration_Min,Distance_km,Sets,Reps,Weight_kg,RPE
+2026-10-01,Cardio,Easy Running,33,3.6,,,,4.0
+2026-10-01,Core,Plank,4,,2.0,,,4.0
+2026-10-01,Sprint Training,Short Sprints,12,0.25,5.0,1.0,,7.0
+2026-10-01,Weight Training,Bench Press,16,,4.0,7.0,42.0,7.0
+2026-10-01,Weight Training,Squats,13,,3.0,11.0,53.0,8.0
+2026-10-02,Cardio,Skipping,15,,4.0,145.0,,5.0
+2026-10-02,Core,Sit-ups,11,,3.0,11.0,,6.0
+2026-10-02,Weight Training,Bent-over Row,13,,4.0,10.0,24.0,7.0
+2026-10-02,Weight Training,Deadlift,13,,3.0,11.0,40.0,7.0
+2026-10-02,Weight Training,Dumbbell Shoulder Press,11,,2.0,7.0,7.0,6.0
+2026-10-03,Cardio,Tempo Running,22,2.0,,,,6.0
+2026-10-03,Core,Side Plank,4,,3.0,,,6.0
+2026-10-03,Plyometric,Box Jumps,8,,3.0,10.0,,6.0
+2026-10-03,Weight Training,Lunges,9,,2.0,9.0,18.0,6.0
+2026-10-03,Weight Training,Pull-ups,8,,3.0,4.0,,7.0
+2026-10-04,Recovery,Dynamic Mobility,18,,,,,3.0
+2026-10-04,Recovery,Stretching,13,,,,,2.0
+2026-10-05,Core,Leg Raises,5,,4.0,16.0,,5.0
+2026-10-05,Sprint Training,Sprint Intervals,13,0.75,5.0,1.0,,8.0
+2026-10-05,Weight Training,Lat Pulldown,14,,3.0,8.0,22.0,6.0
+2026-10-05,Weight Training,Push-ups,12,,2.0,12.0,,6.0
+2026-10-05,Weight Training,Romanian Deadlift,15,,3.0,10.0,38.0,7.0
+2026-10-06,Cardio,Skipping,13,,2.0,91.0,,7.0
+2026-10-06,Cardio,Steady Running,27,3.5,,,,5.0
+2026-10-06,Core,Plank,5,,3.0,,,5.0
+2026-10-06,Plyometric,Broad Jumps,11,,3.0,7.0,,7.0
+2026-10-06,Weight Training,Goblet Squat,8,,3.0,8.0,16.0,8.0
+2026-10-07,Rest,Rest Day,0,,,,,0.0
+2026-10-08,Cardio,Easy Running,18,3.4,,,,
+2026-10-08,Core,Plank,4,,3.0,,,5.0
+2026-10-08,Sprint Training,Short Sprints,16,0.4,5.0,1.0,,7.0
+2026-10-08,Weight Training,Bench Press,10,,4.0,9.0,27.0,6.0
+2026-10-08,Weight Training,Squats,8,,4.0,12.0,43.0,8.0
+2026-10-09,Cardio,Skipping,15,,3.0,84.0,,5.0
+2026-10-09,Core,Sit-ups,12,,3.0,14.0,,5.0
+2026-10-09,Weight Training,Bent-over Row,11,,3.0,10.0,23.0,6.0
+2026-10-09,Weight Training,Deadlift,11,,4.0,11.0,68.0,6.0
+2026-10-09,Weight Training,Dumbbell Shoulder Press,14,,3.0,12.0,16.0,8.0
+2026-10-10,Cardio,Tempo Running,19,2.1,,,,7.0
+2026-10-10,Core,Side Plank,6,,3.0,,,5.0
+2026-10-10,Plyometric,Box Jumps,6,,2.0,10.0,,6.0
+2026-10-10,Weight Training,Lunges,8,,4.0,6.0,16.0,6.0
+2026-10-10,Weight Training,Pull-ups,5,,3.0,3.0,,7.0
+2026-10-11,Recovery,Dynamic Mobility,14,,,,,2.0
+2026-10-11,Recovery,Stretching,13,,,,,2.0
+2026-10-12,Core,Leg Raises,12,,2.0,22.0,,6.0
+2026-10-12,Sprint Training,Sprint Intervals,16,0.6,6.0,1.0,,8.0
+2026-10-12,Weight Training,Lat Pulldown,13,,2.0,9.0,44.0,8.0
+2026-10-12,Weight Training,Push-ups,11,,3.0,16.0,,5.0
+2026-10-12,Weight Training,Romanian Deadlift,9,,2.0,7.0,54.0,6.0
+2026-10-13,Cardio,Skipping,14,,3.0,89.0,,6.0
+2026-10-13,Cardio,Steady Running,31,2.3,,,,7.0
+2026-10-13,Core,Plank,6,,3.0,,,4.0
+2026-10-13,Plyometric,Broad Jumps,6,,4.0,7.0,,6.0
+2026-10-13,Weight Training,Goblet Squat,10,,3.0,10.0,23.0,7.0
+2026-10-14,Rest,Rest Day,0,,,,,0.0
+2026-10-15,Cardio,Easy Running,18,2.8,,,,6.0
+2026-10-15,Core,Plank,7,,3.0,,,6.0
+2026-10-15,Sprint Training,Short Sprints,13,0.48,6.0,1.0,,7.0
+2026-10-15,Weight Training,Bench Press,8,,4.0,9.0,30.0,6.0
+2026-10-15,Weight Training,Squats,12,,2.0,8.0,26.0,7.0
+2026-10-16,Cardio,Skipping,13,,4.0,142.0,,7.0
+2026-10-16,Core,Sit-ups,6,,4.0,24.0,,7.0
+2026-10-16,Weight Training,Bent-over Row,8,,2.0,9.0,28.0,6.0
+2026-10-16,Weight Training,Deadlift,11,,4.0,8.0,74.0,6.0
+2026-10-16,Weight Training,Dumbbell Shoulder Press,15,,2.0,9.0,9.0,7.0
+2026-10-17,Cardio,Tempo Running,27,4.2,,,,6.0
+2026-10-17,Core,Side Plank,6,,3.0,,,5.0
+2026-10-17,Plyometric,Box Jumps,6,,2.0,7.0,,7.0
+2026-10-17,Weight Training,Lunges,14,,4.0,12.0,23.0,8.0
+2026-10-17,Weight Training,Pull-ups,7,,4.0,7.0,,6.0
+2026-10-18,Recovery,Dynamic Mobility,9,,,,,1.0
+2026-10-18,Recovery,Stretching,8,,,,,2.0
+2026-10-19,Core,Leg Raises,7,,2.0,20.0,,7.0
+2026-10-19,Sprint Training,Sprint Intervals,14,0.6,6.0,1.0,,7.0
+2026-10-19,Weight Training,Lat Pulldown,16,,3.0,8.0,21.0,7.0
+2026-10-19,Weight Training,Push-ups,5,,4.0,11.0,,5.0
+2026-10-19,Weight Training,Romanian Deadlift,8,,2.0,10.0,36.0,7.0
+2026-10-20,Cardio,Skipping,10,,3.0,89.0,,5.0
+2026-10-20,Cardio,Steady Running,20,4.0,,,,4.0
+2026-10-20,Core,Plank,7,,2.0,,,5.0
+2026-10-20,Plyometric,Broad Jumps,9,,4.0,10.0,,7.0
+2026-10-20,Weight Training,Goblet Squat,10,,3.0,7.0,13.0,7.0
+2026-10-21,Rest,Rest Day,0,,,,,0.0
+2026-10-22,Cardio,Easy Running,18,4.4,,,,4.0
+2026-10-22,Core,Plank,4,,3.0,,,5.0
+2026-10-22,Sprint Training,Short Sprints,14,0.24,4.0,1.0,,7.0
+2026-10-22,Weight Training,Bench Press,11,,3.0,9.0,37.0,8.0
+2026-10-22,Weight Training,Squats,14,,3.0,8.0,32.0,6.0
+2026-10-23,Cardio,Skipping,8,,4.0,140.0,,5.0
+2026-10-23,Core,Sit-ups,11,,3.0,17.0,,7.0
+2026-10-23,Weight Training,Bent-over Row,12,,4.0,7.0,30.0,6.0
+2026-10-23,Weight Training,Deadlift,9,,2.0,11.0,77.0,6.0
+2026-10-23,Weight Training,Dumbbell Shoulder Press,15,,2.0,12.0,13.0,6.0
+2026-10-24,Cardio,Tempo Running,30,3.7,,,,4.0
+2026-10-24,Core,Side Plank,5,,2.0,,,6.0
+2026-10-24,Plyometric,Box Jumps,8,,2.0,8.0,,6.0
+2026-10-24,Weight Training,Lunges,16,,3.0,6.0,16.0,8.0
+2026-10-24,Weight Training,Pull-ups,9,,3.0,6.0,,5.0
+2026-10-25,Recovery,Dynamic Mobility,14,,,,,1.0
+2026-10-25,Recovery,Stretching,17,,,,,1.0
+2026-10-26,Core,Leg Raises,11,,4.0,13.0,,7.0
+2026-10-26,Sprint Training,Sprint Intervals,19,1.0,5.0,1.0,,8.0
+2026-10-26,Weight Training,Lat Pulldown,14,,3.0,6.0,32.0,6.0
+2026-10-26,Weight Training,Push-ups,10,,3.0,18.0,,6.0
+2026-10-26,Weight Training,Romanian Deadlift,14,,3.0,6.0,31.0,8.0
+2026-10-27,Cardio,Skipping,9,,2.0,129.0,,6.0
+2026-10-27,Cardio,Steady Running,23,3.4,,,,4.0
+2026-10-27,Core,Plank,6,,3.0,,,4.0
+2026-10-27,Plyometric,Broad Jumps,10,,2.0,5.0,,6.0
+2026-10-27,Weight Training,Goblet Squat,11,,2.0,8.0,24.0,7.0
+2026-10-28,Rest,Rest Day,0,,,,,0.0
+2026-10-29,Cardio,Easy Running,20,3.2,,,,5.0
+2026-10-29,Core,Plank,5,,3.0,,,5.0
+2026-10-29,Sprint Training,Short Sprints,10,0.4,5.0,1.0,,8.0
+2026-10-29,Weight Training,Bench Press,13,,2.0,12.0,23.0,7.0
+2026-10-29,Weight Training,Squats,16,,3.0,8.0,36.0,7.0
+2026-10-30,Cardio,Skipping,8,,2.0,94.0,,7.0
+2026-10-30,Core,Sit-ups,9,,4.0,10.0,,7.0
+2026-10-30,Weight Training,Bent-over Row,12,,3.0,9.0,21.0,8.0
+2026-10-30,Weight Training,Deadlift,15,,3.0,9.0,64.0,7.0
+2026-10-30,Weight Training,Dumbbell Shoulder Press,14,,4.0,8.0,10.0,7.0
